@@ -17,4 +17,4 @@ pip install -r requirements.txt
 
 ## Running the Notebook
 
-Once you have installed the packages above and activated the FitModelsDataEnv environment, you can start running the Jupyter Notebook by typing ```jupyter notebook``` in the Terminal
+Once you have installed the packages above and activated the FitModelsDataEnv environment, you can start running the Jupyter Notebook by typing ```jupyter notebook``` in the Terminal and clicking on FitModelsDataABC.ipynb
